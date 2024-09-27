@@ -1,7 +1,7 @@
-# HangmanOOP
+# HangmanGameOOP
 
 ## Overview
-HangmanOOP is an object-oriented implementation of the classic Hangman game, with a strong emphasis on adhering to SOLID principles. The game selects a word randomly from a file.
+HangmanGameOOP is an object-oriented implementation of the classic Hangman game, with a strong emphasis on adhering to SOLID principles. The game selects a word randomly from a file.
 
 ## Features
 - **Random Word Selection**: Words are randomly selected from a predefined file.
@@ -34,5 +34,5 @@ HangmanOOP is an object-oriented implementation of the classic Hangman game, wit
 - **Main.java**: The entry point of the application.
 - **Game.java**: Handles the game logic.
 - **QuitException.java**: The class helps the user to quit during the game.
-- **Session.java**: Responsible for arrangement of one session.
+- **Session.java**: Responsible for arranging one session.
 - **UserInfo.java**: Informs the user about the rules of the game.
