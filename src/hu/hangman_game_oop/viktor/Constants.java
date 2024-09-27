@@ -16,7 +16,7 @@ class Constants {
 	private static final String CHAR_TO_QUIT = "*";
 	private static final String INITIAL_STRING = "dummy";
 	private static final String CONGRATS = "You won, congrats!";
-	private static final String HEADS_UP = "You have used up all your guesses!. The solution would have been \"%s\".";
+	private static final String HEADS_UP = "You have used up all of your guesses!. The solution would have been \"%s\".";
 
 	static {
 		try {
